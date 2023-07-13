@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Cake {
+  width: 1300px;
+  margin: 0 auto;
+}
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+h1 {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  color: #3a3a3a;
+  font-family: Futura PT;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 450;
+  line-height: normal;
+  margin-left: 52px;
+}
+.header-nav__list {
+  display: flex;
+  list-style: none;
+}
+.header-nav__item {
+  text-decoration: none;
+  color: #3a3a3a;
+  font-family: Futura PT;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 36px;
+}
+nav span {
+  color: #3a3a3a;
+  font-family: Futura PT;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-top: 45px;
+  margin-left: -135px;
+}
+nav p {
+  color: #3a3a3a;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 98px;
+}
+.header-icons a {
+  display: flex;
+  margin-left: 73px;
+}
+.header-icon__item {
+  margin-left: 30px;
+  color: rgba(58, 58, 58, 1);
+}
+.header-hero {
+  margin-top: 18px;
+}
+.hero-icon {
+  margin-top: 15px;
+}
